@@ -1,1 +1,1 @@
-# NearestCentroid_RetiLogiche
+# Reti Logiche's Project
